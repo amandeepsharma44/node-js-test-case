@@ -1,7 +1,7 @@
 # nodejs-test-case
 1UP nodejs test case
 
-This is test case for [1UP](http://oneuphigher.com/) Node.js developer recruitments.
+This is test case for  Node.js developer recruitments.
 
 1. Fork this repo
 2. Copy ```config/config.example.json```to ```config/config.json````
